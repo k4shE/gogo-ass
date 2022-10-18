@@ -60,6 +60,7 @@ img{
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
+    background-color: rgba(0,0,0,0.2);
 }
 .feature-left-body img{
     position: relative;
@@ -162,6 +163,7 @@ img{
     height: 100%;
     border-radius: 20px;
     overflow: hidden;
+    background-color: rgba(0,0,0,0.2);
 }
 .item-body img{
     position: relative;
